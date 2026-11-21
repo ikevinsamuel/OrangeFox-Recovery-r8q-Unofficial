@@ -24,3 +24,11 @@ Note - r8q is a A-Only Device
 14. It will boot to OrangeFox Recovery.
 
 **Your Device will boot to OrangeFox Recovery**
+
+## Reference and Credits
+- https://github.com/that1
+- https://github.com/TeamWin
+- https://gitlab.com/OrangeFox
+- https://github.com/cd-Crypton
+- https://github.com/azwhikaru
+- And to all Contributors in every repositories and scripts I used.
